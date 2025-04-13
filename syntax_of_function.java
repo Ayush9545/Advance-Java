@@ -3,6 +3,6 @@ public class syntax_of_function{
         System.out.println("hello world");
     }
     public static void main(String[] args) {
-        main();
+        main();// this is function call
     }
 }
